@@ -1,5 +1,0 @@
-server:
-  port: 9091
-
-sample:
-  secondProperty: This property applies to the first standalone client.

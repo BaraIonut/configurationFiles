@@ -1,5 +1,0 @@
-server:
-  port: 9082
-
-sample:
-  secondProperty: This property applies to the second embedded client.

@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: Quote-Service
+
+server:
+  port: 9290
+  servlet:
+    context-path: /quote-service
